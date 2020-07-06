@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   location = "Kingston"
   date_start = "2020-05-01"
   date_end = ""
-  description = 
-  """
+  description = """
   (Star Formation) Fissel Group 2020 - Present
   · Working on developing an optimal compression algorithm for time stream data sent via bandwidth.
   · Developed an optimal astrometry solve-field script using Python that automatically records found solutions. 
@@ -40,8 +39,7 @@ date_format = "Jan 2006"
   location = "Toronto"
   date_start = "2018-12-31"
   date_end = "2020-04-01"
-  description = 
-  """
+  description = """
   (Observational Cosmology) Netterfield Group 2019 - 2020
   · Using Python, developed an optimal image compression algorithm for SuperBIT.
   · Developed a pseudo astronomical image simulation program that generates images with similar parameters obtained by SuperBIT.
