@@ -32,6 +32,7 @@ date_format = "Jan 2006"
   * Developed a filtering software use to to purify images obtained by BlastTNG.
   """
 
+
 [[experience]]
   title = "Research Assistant"
   company = "University of Toronto"
@@ -53,6 +54,7 @@ date_format = "Jan 2006"
   * Debugged and created new instrumentation equipment such as: RF switch boxes, diode temperature
     cables, DAC devices, etc.
   """
+
 
 [[experience]]
   title = "Teacher"
