@@ -31,9 +31,11 @@ education:
   courses:
   - course: Msc. in Physics
     institution: Queens University
+    thesis: BlastTNG and the question of Star Formations.
     year: 2022
   - course: HBSc. in Math
     institution: University of Toronto
+    thesis: Compression Algorithms for Balloon Borne Telescopes.
     year: 2020
 
 # Social/Academic Networking
@@ -68,6 +70,8 @@ user_groups:
 
 Experimental physicist, programming enthusiast exploring the creation and evolution of the Universe.
 
-My current research involves the investigation of star formation using high powered telescope such as BlastTNG- https://sites.northwestern.edu/blast/. Currently I am working on analyzing data from our most recent flight along with developing an optimal filtering and compression algorithm that will be implemented in future models!
+My current research involves the investigation of star formation using high powered telescope such as BlastTNG- https://sites.northwestern.edu/blast/. 
+
+Currently I am working on analyzing data from our most recent flight along with developing an optimal filtering and compression algorithm that will be implemented in future models!
 
 I also dabble with machine learning and abstract math. 
