@@ -74,7 +74,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-[[projects]]
+[[project]]
   title='superbit'
 +++
 
