@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto: 20jjp1@queensu.ca:  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto: 20jjp1@queensu.ca"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: ""
