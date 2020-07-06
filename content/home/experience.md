@@ -61,8 +61,7 @@ date_format = "Jan 2006"
   location = "Toronto"
   date_start = "2018-09-01"
   date_end = "2020-06-23"
-  description = 
-  """
+  description = """
   · Designed and taught an advanced high school curriculum for Computer Science in classroom sizes of approximately
   5 to 8 students.
   · Created tests, quizzes, assignments for assessments.
