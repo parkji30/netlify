@@ -27,7 +27,7 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "telescope"
+  icon = "atom"
   icon_pack = "fas"
   name = "Physics"
   description = "100%"

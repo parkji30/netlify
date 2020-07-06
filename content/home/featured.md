@@ -26,10 +26,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Compression, Relativity, Physics"
     category = ""
-    publication_type = ""
-    author = ""
+    publication_type = "Senior Thesis"
+    author = "Jinsoo Park"
   
 [design]
   # Toggle between the various page layout types.
