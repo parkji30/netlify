@@ -18,7 +18,7 @@ subtitle = ""
   icon = "fa-python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
@@ -27,10 +27,10 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-telescope"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Astrophysics"
+  description = "100%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
