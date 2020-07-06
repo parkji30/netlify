@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "100%"
@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "fa-telescope"
+  icon = "telescope"
   icon_pack = "fas"
-  name = "Astrophysics"
+  name = "Physics"
   description = "100%"
 
 # Uncomment to use emoji icons.
