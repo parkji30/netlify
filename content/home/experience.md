@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research \nExperience"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Queens University"
-  company_url = ""
+  company_url = "https://www.queensu.ca/physics/home"
   location = "Kingston"
   date_start = "2020-05-01"
   date_end = ""
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "University of Toronto"
-  company_url = ""
+  company_url = "https://www.physics.utoronto.ca/"
   location = "Toronto"
   date_start = "2018-12-31"
   date_end = "2020-04-01"
@@ -55,11 +55,10 @@ date_format = "Jan 2006"
     cables, DAC devices, etc.
   """
 
-
 [[experience]]
   title = "Teacher"
   company = "The Abelard School"
-  company_url = ""
+  company_url = "http://www.abelardschool.org/"
   location = "Toronto"
   date_start = "2018-09-01"
   date_end = "2020-06-23"
@@ -68,4 +67,18 @@ date_format = "Jan 2006"
   5 to 8 students.
   * Created tests, quizzes, assignments for assessments.
   """
+
+[[experience]]
+  title = "Manager"
+  company = "Toronto Gunners Soccer Club"
+  company_url = ""
+  location = "Toronto"
+  date_start = "2016-05-01"
+  date_end = "2018-09-01"
+  description = """
+  * Handled administrative and financial tasks, obtained permits and registered player information withthe Ontario Soccer Association.
+  * Engaged with fundraising activities and designed fundraising proposals to raise capital for club expenditures.
+  * Increased revenue by approximately 25000 dollars during tenure.
+  """
+
 +++
