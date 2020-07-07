@@ -9,29 +9,6 @@ title = "Projects"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-
-
-[content]
   # Page type to display. E.g. project.
   page_type = "project"
   
@@ -55,15 +32,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "BlastTNG"
     tag = "Star Formation"
-
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
