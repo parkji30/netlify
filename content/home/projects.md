@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "SuperBIT"
-    tag = "Dark Matter and Relativity"
+    name = "Simulations"
+    tag = "*"
 
   [[content.filter_button]]
-    name = "BlastTNG"
-    tag = "Star Formation"
+    name = "Scripts"
+    tag = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
