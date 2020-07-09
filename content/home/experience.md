@@ -41,13 +41,13 @@ date_format = "Jan 2006"
   date_start = "2018-12-31"
   date_end = "2020-04-01"
   description = """
-  (Observational Cosmology) Netterfield Group 2019 - 2020
+  (Observational Cosmology) Netterfield Group
   * Using Python, developed an optimal image compression algorithm for SuperBIT.
   * Developed a pseudo astronomical image simulation program that generates images with similar parameters obtained by SuperBIT.
   * Created a program to compare the efficiency of different algorithms for over 10000 simulated stars.
   * Obtained a compression factor of 5.15 for the densest image.
-
-  (Quantum Optics) Vutha Group 2018 - 2019
+  
+  (Quantum Optics) Vutha Group
   * Developed a Python program that simulates magnetic fields over a region of 200,000 data points.
   * Created a numerical and analytical differential equation solver.
   * Used AutoCAD to design a complete nitrogen shield vacuum chamber.
