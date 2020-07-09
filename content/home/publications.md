@@ -2,7 +2,6 @@
 
 widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
-
 title = 'Publications'
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -36,4 +35,5 @@ title = 'Publications'
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-  +++
+
++++
