@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Programming Projects"
+title = "Projects"
 subtitle = ""
 
 [content]
@@ -24,14 +24,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-
+  
   [[content.filter_button]]
-    name = "Simulations"
-    tag = "*"
-
+    name = "Deep Learning"
+    tag = "Deep Learning"
+  
   [[content.filter_button]]
-    name = "Scripts"
-    tag = "*"
+    name = "Other"
+    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -45,7 +45,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -73,8 +73,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-
-[[item]]
-  title='superbit'
 +++
 
