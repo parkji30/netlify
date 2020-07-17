@@ -99,9 +99,6 @@ address = {street = "64 Bader Ln", city = "Kingston", region = "CA", postcode = 
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "44.224560", longitude = "-76.497758"}
 
-# Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
-
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Weekdays from 9:00 a.m. to 5:00 p.m."]
