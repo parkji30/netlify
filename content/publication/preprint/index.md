@@ -24,7 +24,10 @@ abstract: SuperBIT and its future successor, GigaBIT are both high powered teles
 summary: Optimal compression algorithms for Super Pressurized Balloon Borne Telescopes.
 
 tags:
-- Source Themes
+- Simulations
+- Image Processing
+- Programming
+- Machine Learning
 featured: false
 
 links:
