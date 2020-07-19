@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research & Work Experience"
 subtitle = ""
 
 # Date format for experience
@@ -80,5 +80,4 @@ date_format = "Jan 2006"
   * Engaged with fundraising activities and designed fundraising proposals to raise capital for club expenditures.
   * Increased revenue by approximately 25000 dollars during tenure.
   """
-
 +++

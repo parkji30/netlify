@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinsoo James Park
+title: Jinsoo Park
 
 # Username (this should match the folder name)
 authors:
