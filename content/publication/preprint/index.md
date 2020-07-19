@@ -21,15 +21,15 @@ publication_short: "Compression Algorithms for BIT"
 abstract: SuperBIT and its future successor, GigaBIT are both high powered telescopes that will map out the distrubtion of dark matter above the stratosphere using super pressurized high altitude balloons. This lets us avoid the residue contained in the molecular clouds which are perilous to obtaining crucial scientific data. Yet, another issue arises-namely, the limitation of our download bandwidth. For my senior thesis project, I developed an optimal simulation program that tested varying compression algorithms on pseudo astronomical images and and obtained a maximal compression factor of 5.15.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Optimal compression algorithms for Super Pressurized Balloon Borne Telescopes.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/parkji30/SuperBIT-Compression-Optimization'
 # url_dataset: '#'
