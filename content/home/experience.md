@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   date_start = "2016-05-01"
   date_end = "2018-09-01"
   description = """
-  * Handled administrative and financial tasks, obtained permits and registered player information withthe Ontario Soccer Association.
+  * Handled administrative and financial tasks, obtained permits and registered player information with the Ontario Soccer Association.
   * Engaged with fundraising activities and designed fundraising proposals to raise capital for club expenditures.
   * Increased revenue by approximately 25000 dollars during tenure.
   """
