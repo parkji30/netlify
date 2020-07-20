@@ -1,6 +1,6 @@
 ---
 title: BlastTNG
-summary: Studying the formation of stars in instellar mediums.
+summary: Studying the formation of stars in interstellar mediums.
 tags:
 - Demo
 date: "2020-04-01T00:00:00Z"

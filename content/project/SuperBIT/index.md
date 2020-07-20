@@ -1,6 +1,6 @@
 ---
 title: SuperBIT
-summary: The search for the distribution of dark matter density in the Universe.
+summary: Probing the distribution of dark matter in the Universe.
 tags:
 - Python
 - Programming
