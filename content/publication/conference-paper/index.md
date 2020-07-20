@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Will be in  *Journal of Astronomy and Astrophysics*
-publication_short: In *STC*
+publication_short: In *TSI*
 
 abstract: (Work in progress, yet to be updated)
 
@@ -45,8 +45,9 @@ url_code: '#'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
