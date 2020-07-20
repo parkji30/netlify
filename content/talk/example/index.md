@@ -1,15 +1,15 @@
 ---
 title: Freewill, Determinism, and the role of Physics
 event: Faith and Science group
-event_url: http://www.newmantoronto.com/programs.html
+event_url: 
 
 location: TBD
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
 summary: A in depth discussion regarding the human consciousness, freewill, and the laws of nature.
 abstract: Freewill, an abstract concept yet to be proven, or believed to be a myth, is a phenomena that seems so prevalent in today's society. Do we, as conscious beings, choose to act and behave according to our own jurisdictions, or are our actions the mere consequence from a sequence of chemical reactions? Can this be a question that can be answered from the laws of physics, or is it to be left in the realm of philosophy?
