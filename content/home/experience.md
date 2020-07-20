@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   (Star Formation) Fissel Group 2020 - Present
-  * Working on applying the David Chandrasekhar Fermi method on the VELA C data.
-  * Working on developing an optimal compression algorithm for time stream data sent via bandwidth.
+  * Application of the David Chandrasekhar Fermi method on the VELA C data.
+  * Developing an optimal compression algorithm for time stream data sent by BlastTNG.
   * Developed an optimal astrometry solve-field script using Python that automatically records found solutions. 
   * Developed a filtering software use to to purify images obtained by BlastTNG.
   """

@@ -1,6 +1,6 @@
 ---
 title: PolyEDM Project
-summary: A simulation for the behavior of polyatomic molecules in different energy Levels.
+summary: The search for the electric dipole moment.
 tags:
 - Simulations
 - Python
