@@ -1,25 +1,25 @@
 ---
-title: Astrometry Solutions Script
-summary: An example of using the in-built project page.
+title: PolyEDM Project
+summary: A simulation for the behavior of polyatomic molecules in different energy Levels.
 tags:
 - Simulations
 - Python
 - Programming
-- Astrophysics
-date: "2020-04-01T00:00:00Z"
+- Quantum Physics
+date: "2019-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://www.polyedm.com/"
 
 image:
-  caption: Photo provided by NASA
+  caption: A cool photo of an electron
   focal_point: Smart
 
 links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_code: "https://github.com/parkji30/PolyEDM-Project"
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -29,12 +29,18 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Polyatomic molecules offer the unique ability to probe CP-violation at the PeV scale through laser cooling and trapping combined with robust systematic error rejection.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Reaching the PeV Scale
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Searches for the electron EDM depend on the ability to perform spin precession measurements with long interaction time and large numbers.  Both of these can be achieved with laser-cooled and trapped neutral polyatomic molecules, which also offer robust systematic error rejection techniques via internal co-magnetometer states.  The rapid advances in laser cooling of diatomic and polyatomic molecules have made such an experiment within reach, and will enable significant increases is sensitivity.  As an example, consider 106 heavy, eEDM-sensitive molecules in optical trap with 10 s coherence time.  After 1 week of integration, such an experiment will have sensitivity to CP-violating physics at the PeV scale.  This is beyond the reach of conceivable accelerators.  The ability to combine long coherence time, large numbers, internal co-magnetometers, and the ability to further enhance sensitivity via quantum control techniques is unique to polyatomic molecules.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Yb Polyatomics
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The Yb atom is a powerful atom for precision measurement.  Its large mass induces highly relativistic motion of valence electrons near the heavy nucleus, making it a strong probe of CP violating physics.  YbF has been used to search for the eEDM, and the highly deformed nucleus of 173Yb makes it highly sensitive to hadronic CP-violation via a nuclear magnetic quadrupole moment (MQM).  The electronic structure of Yb is nearly identical to an alkaline earth atom, so Yb-bearing molecules are amenable to laser cooling.  
+
+A promising candidate is YbOH.  This molecule has a long-lived excited bending mode with parity doublets, making it highly polarizable and offering internal co-magnetometer states.  This molecule also has existing spectroscopy, which gives us a good starting point to make detailed spectroscopic measurements.
+
+Symmetric top molecules such as YbOCH3 may offer even more advantages due to their very low-lying metastable states with parity doublets that are even more polarizable.
+
+More information can ultimately be found on the official research website: www.polyedm.com
