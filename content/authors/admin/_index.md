@@ -18,7 +18,7 @@ organizations:
   url: "https://www.queensu.ca/physics/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an experimental physicist working under the supervision of Dr. Laura Fissel. My research interests are in designing balloon borne telescopes to investigate the inefficieny of star formations.
+bio: I am an experimental physicist working under the supervision of Dr. Laura Fissel. My research interests are in designing balloon borne telescopes to investigate the inefficiency of star formations.
 
 interests:
 - Star Formation

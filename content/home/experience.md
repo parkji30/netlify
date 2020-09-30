@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   * Application of the David Chandrasekhar Fermi method on the VELA C data.
   * Developing an optimal compression algorithm for time stream data sent by BlastTNG.
   * Developed an optimal astrometry solve-field script using Python that automatically records found solutions. 
-  * Developed a filtering software use to to purify images obtained by BlastTNG.
+  * Developed a filtering software used to to purify images obtained by BlastTNG.
   """
 
 
