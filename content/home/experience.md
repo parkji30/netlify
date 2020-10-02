@@ -27,10 +27,26 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   (Star Formation) Fissel Group 2020 - Present
+  * Design and implementation of the pointing system for BlastTNG.
+  * Developed an optimal compression algorithm with a compression factor of 5.
+  * Developed a noise reduction program used to purify images obtained by BlastTNG. 
   * Application of the David Chandrasekhar Fermi method on the VELA C data.
   * Developing an optimal compression algorithm for time stream data sent by BlastTNG.
   * Developed an optimal astrometry solve-field script using Python that automatically records found solutions. 
   * Developed a filtering software used to to purify images obtained by BlastTNG.
+  """
+
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "Queens University"
+  company_url = "https://www.queensu.ca/physics/home"
+  location = "Kingston"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  (PHY118)
+  * Online lab teaching assistant, organizing group activities and providing assistance to students.
+  * Held office hours for further assistance.
   """
 
 
@@ -45,13 +61,13 @@ date_format = "Jan 2006"
   (Observational Cosmology) Netterfield Group
   * Using Python, developed an optimal image compression algorithm for SuperBIT.
   * Developed a pseudo astronomical image simulation program that generates images with similar parameters obtained by SuperBIT.
-  * Created a program to compare the efficiency of different algorithms for over 10000 simulated stars.
+  * Programmed an optimzation software to compare the efficiency of different algorithms to compress over 10000 simulated stars.
   * Obtained a compression factor of 5.15 for the densest image.
   
   (Quantum Optics) Vutha Group
-  * Developed a Python program that simulates magnetic fields over a region of 200,000 data points.
-  * Created a theoretical model for the behavior of YbOH molecules traversing through a molecular beam slower.
-  * Created a numerical and analytical differential equation solver.
+  * Developed a Python program that simulates magnetic fields in a high powered molecular beam slower.
+  * Created a theoretical model for the behavior of YbOH molecules under the presence of turbulent magnetic fields.
+  * Programmed an optimal numerical and analytical differential equation solver.
   * Used AutoCAD to design a complete nitrogen shield vacuum chamber.
   * Debugged and created new instrumentation equipment such as: RF switch boxes, diode temperature
     cables, DAC devices, etc.
