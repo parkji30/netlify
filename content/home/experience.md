@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   (Observational Cosmology) Netterfield Group
   * Using Python, developed an optimal image compression algorithm for SuperBIT.
   * Developed a pseudo astronomical image simulation program that generates images with similar parameters obtained by SuperBIT.
-  * Programmed an optimzation software to compare the efficiency of different algorithms to compress over 10000 simulated stars.
+  * Programmed an optimization software to compare the efficiency of different algorithms to compress over 10000 simulated stars.
   * Obtained a compression factor of 5.15 for the densest image.
   
   (Quantum Optics) Vutha Group
