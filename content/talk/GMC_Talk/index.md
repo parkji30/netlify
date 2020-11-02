@@ -12,13 +12,13 @@ address:
   country: Canada
 
 summary: Probing the question of GMCs and their role in star forming regions.
-abstract: Something as simple as a star, continues to remain so illmuniatingly difficult to comprehend. Perhaps the role that giant molecular clouds plays could help physicists decipher this age old mystery.
+abstract: Something as simple as a star, continues to remain so illmuniatingly difficult to comprehend. Perhaps the role of giant molecular clouds could help physicists decipher this age old mystery.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
-date_end: ""
-all_day: false
+date: "2020-11-16"
+date_end: "2020-11-16"
+all_day: True
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
