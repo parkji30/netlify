@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Queens University"
+  company = "Fissel Star Formation Lab"
   company_url = "https://www.queensu.ca/physics/home"
   location = "Kingston"
   date_start = "2020-05-01"
@@ -28,12 +28,10 @@ date_format = "Jan 2006"
   description = """
   (Star Formation) Fissel Group 2020 - Present
   * Design and implementation of the pointing system for BlastTNG.
-  * Developed an optimal compression algorithm with a compression factor of 5.
-  * Developed a noise reduction program used to purify images obtained by BlastTNG. 
-  * Application of the David Chandrasekhar Fermi method on the VELA C data.
-  * Developing an optimal compression algorithm for time stream data sent by BlastTNG.
-  * Developed an optimal astrometry solve-field script using Python that automatically records found solutions. 
-  * Developed a filtering software used to to purify images obtained by BlastTNG.
+  * Implemented an efficient version of Davis-Chandresekhar Fermi method in Python to calculate the magnetic strength of a molecular cloud in a region containing over 6 million data points.
+  * Developed an automated solution registration script for astrometry.net.
+  * Programmed an in-flight image filtering software to reduce and eliminate excessive noise.
+  * Played a key contribution for submitting a 30 million dollar funding proposal to NASA for the construction of BlastTNG.
   """
 
   [[experience]]
@@ -49,28 +47,36 @@ date_format = "Jan 2006"
   * Held office hours for further assistance.
   """
 
-
 [[experience]]
-  title = "Research Assistant"
-  company = "University of Toronto"
+  title = "Research Scientist"
+  company = "Netterfield Cosmology Group"
+  company_url = "https://sites.physics.utoronto.ca/barthnetterfield"
+  location = "Toronto"
+  date_start = "2018-12-31"
+  date_end = "2020-04-01"
+  description = """
+  * Developed an in-flight image processing, image compression, and data analysis software for SuperBIT,a balloon borne telescope set to launch in space.
+  * Implementation of a galaxy map simulator using Monte Carlo algorithms.
+  * Data analysis for gravitational lensing effects of different map regions
+  * Programmed an optimization software to compare the efficiency of different algorithms to compress over 10000 simulated stars.
+  * Obtained a compression factor of 5.15 for the densest image.
+  """
+
+  [[experience]]
+  title = "Research Scientist"
+  company = "Vutha Quantum Optics Group"
   company_url = "https://www.physics.utoronto.ca/"
   location = "Toronto"
   date_start = "2018-12-31"
   date_end = "2020-04-01"
   description = """
-  (Observational Cosmology) Netterfield Group
-  * Using Python, developed an optimal image compression algorithm for SuperBIT.
-  * Developed a pseudo astronomical image simulation program that generates images with similar parameters obtained by SuperBIT.
-  * Programmed an optimization software to compare the efficiency of different algorithms to compress over 10000 simulated stars.
-  * Obtained a compression factor of 5.15 for the densest image.
-  
   (Quantum Optics) Vutha Group
   * Developed a Python program that simulates magnetic fields in a high powered molecular beam slower.
   * Created a theoretical model for the behavior of YbOH molecules under the presence of turbulent magnetic fields.
   * Programmed an optimal numerical and analytical differential equation solver.
+  * Implemented algorithms for finding the Hamiltonian of different molecules.
   * Used AutoCAD to design a complete nitrogen shield vacuum chamber.
-  * Debugged and created new instrumentation equipment such as: RF switch boxes, diode temperature
-    cables, DAC devices, etc.
+  * Debugged and created new instrumentation equipment such as: RF switch boxes, diode temperature cables, DAC devices, etc.
   """
 
 [[experience]]
@@ -86,16 +92,4 @@ date_format = "Jan 2006"
   * Created tests, quizzes, assignments for assessments.
   """
 
-[[experience]]
-  title = "Manager"
-  company = "Toronto Gunners Soccer Club"
-  company_url = ""
-  location = "Toronto"
-  date_start = "2016-05-01"
-  date_end = "2018-09-01"
-  description = """
-  * Handled administrative and financial tasks, obtained permits and registered player information with the Ontario Soccer Association.
-  * Engaged with fundraising activities and designed fundraising proposals to raise capital for club expenditures.
-  * Increased revenue by approximately 25000 dollars during tenure.
-  """
 +++
