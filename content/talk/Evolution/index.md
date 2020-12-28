@@ -12,12 +12,12 @@ location: Online (via Zoom Call)
 #   country: United States
 
 summary: A in depth discussion regarding the human consciousness, freewill, and the laws of nature.
-abstract: Evolution is a hot topic that brings a certain degree of controversy in Christian circles today. The main question we seek to address is- "Is evolution and the Christian faith compatible?". Does science provide a compelling case for evolution? For this meeting, we held a debate between two thinkers with opposing beliefs to present their best arguements for their beliefs. It is my pleasure to say that this event turned out to be quite successful with over 40 attendees!
+abstract: Evolution is a hot topic that brings a certain degree of controversy in Christian circles today. The main question we seek to address is- "Is evolution and the Christian faith compatible?". Does science provide a compelling case for evolution? It is my pleasure to say that this event turned out to be quite successful with over 40 attendees!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
-date_end: ""
+date: "December 4, 2020"
+date_end: "December 4, 2020"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

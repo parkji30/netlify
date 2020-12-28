@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Graduate Research Scientist"
   company = "Fissel Star Formation Lab"
   company_url = "https://www.queensu.ca/physics/home"
   location = "Kingston"
