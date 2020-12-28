@@ -16,8 +16,8 @@ abstract: Evolution is a hot topic that brings a certain degree of controversy i
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "December 4, 2020"
-date_end: "December 4, 2020"
+date: "2020-12-04"
+date_end: "2020-12-04"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
