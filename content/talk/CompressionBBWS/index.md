@@ -1,7 +1,7 @@
 ---
 title: Compression Algorithms For Balloon Borne Telescopes
 event: 2021 
-event_url: https://balloontech.umn.edu/
+event_url: "https://balloontech.umn.edu/"
 
 location: University of Minnesota
 # address:
