@@ -18,19 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Software Developer"
-  company = "WFHomie"
-  company_url = "www.wfhomie.com"
-  location = "Toronto"
-  date_start = "2021-01-15"
-  date_end = "2021-02-14"
-  description = """
-  * Complete front end integration of website responsiveness and design using using React.Js, Material UI.
-  * Development of user registration, authentication using Firebase, Express.js.
-  * Lead a team in product design and deployment for subscribed customers.
-  * Virtual presentation for demonstration of product to angel investors.
-  """
+
   
 [[experience]]
   title = "Graduate Research Scientist"
@@ -60,6 +48,26 @@ date_format = "Jan 2006"
   (PHY118)
   * Online lab teaching assistant, organizing group activities and providing assistance to students.
   * Held office hours for further assistance.
+  * Have taught to date:
+    """
+    * PHYS372
+    * PHYS118
+    * PHYS117
+    """
+  """
+
+[[experience]]
+  title = "Software Developer"
+  company = "WFHomie"
+  company_url = "www.wfhomie.com"
+  location = "Toronto"
+  date_start = "2021-01-15"
+  date_end = "2021-02-14"
+  description = """
+  * Complete front end integration of website responsiveness and design using using React.Js, Material UI.
+  * Development of user registration, authentication using Firebase, Express.js.
+  * Lead a team in product design and deployment for subscribed customers.
+  * Virtual presentation for demonstration of product to angel investors.
   """
 
 [[experience]]

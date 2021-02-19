@@ -3,14 +3,13 @@ title: Compression Algorithms For Balloon Borne Telescopes
 event: Scientific Ballooning Workshop
 event_url: "https://balloontech.umn.edu/"
 
-location: TBD
-#   address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
-
+location: Queens University (Virtual Zoom Call)
+address:
+  street: 99 University Ave
+  city: Kingston,
+  region: Ontario
+  postcode: K7L 1Y4
+  country: Canada
 
 summary: The efficiency and advantages toward the use of Compression Algorithms.
 abstract: Astronomical instrumentation has grown tremendously in their capabilities for capturing  high  quality science images; however, these advancements  areoffset by another problem- the limitation in the bandwidth.  Progress in astro-nomical research demonstrates that the compression of crucial data is becomingincreasingly important. Such a clear example lies in balloon-borne telescopes,such as BlastTNG and SuperBIT. Being able to look at multiple science imagesduring the flight is crucial to evaluate payload performance and debug any in-evitable problems.  The use of compression algorithms proves to be an effective solution  in  obtaining  multiple  images  while  retaining  the  high  quality  resolu-tions our cameras capture. We investigate and describe the findings of the RICE, GZIP, H-Transformationand Bit Shaving compression algorithm for our multidimensional star cameras.Both BlastTNG and SuperBIT are capable of capturing multiple high resolutionimages that are riddled with several layers of noise.  Additionally, many sourcesof high interest can yield a weak signal to noise ratio as low as 1.6.  Our inves-tigation demonstrates that by taking advantage of the mentioned algorithms,we were able compress our images up to a factor of 5 while obtaining the samelevel of signal to noise ratio and the ability to identify the sources of interest inboth the compressed and uncompressed versions.
