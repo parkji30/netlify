@@ -11,7 +11,6 @@ location: TBD
 #   postcode: '94305'
 #   country: United States
 
-
 summary: The efficiency and advantages for the use of Compression Algorithms.
 abstract: Star Formation remains a program at large.
 

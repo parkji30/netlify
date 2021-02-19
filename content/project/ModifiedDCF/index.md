@@ -1,5 +1,5 @@
 ---
-title: Calibrating the Efficiency of the modified Davis-Chandresekhar Fermi method
+title: Calibrating the Efficiency of the modified DCF method
 summary: Calculating the magnetic field strength of molecular clouds.
 tags:
 - Simulations

@@ -48,10 +48,7 @@ date_format = "Jan 2006"
   (PHY118)
   * Online lab teaching assistant, organizing group activities and providing assistance to students.
   * Held office hours for further assistance.
-  * Have taught to date:
-    -PHYS372
-    -PHYS118
-    -PHYS117
+  * Have taught to date: PHYS372 (Intro to Statiscal Mechanics), PHYS117/118 (Basic Physics I/II)
   """
 
 [[experience]]
