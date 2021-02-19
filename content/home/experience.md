@@ -27,11 +27,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   (Star Formation) Fissel Group 2020 - Present
-  * Design and implementation of the pointing system for BlastTNG.
-  * Implemented an efficient version of Davis-Chandresekhar Fermi method in Python to calculate the magnetic strength of a molecular cloud in a region containing over 6 million data points.
-  * Developed an automated solution registration script for astrometry.net.
-  * Programmed an in-flight image filtering software to reduce and eliminate excessive noise.
-  * Played a key contribution for submitting a 30 million dollar funding proposal to NASA for the construction of BlastTNG.
+  * Under the supervision of Dr. Laura Fissel, worked on theBlastTNG collaboration project.
+  * Implementation of the Davis-Chandresekhar Fermi method (Python) to calculate the magnetic fieldstrength of galactic molecular clouds.
+  * Used numpy, scipy to analyze data from Vela-C and the Athena simulations.
+  * Developed an automated solution registration script for Nova Astrometry.
+  * Programmed an in-flight image filtering software for data analysis and instrument noise reduction.
+  * Contribution towards a 30 million dollar funding proposal to NASA for the reconstruction of BlastTNG.
   """
 
   [[experience]]
@@ -55,11 +56,11 @@ date_format = "Jan 2006"
   date_start = "2018-12-31"
   date_end = "2020-04-01"
   description = """
-  * Developed an in-flight image processing, image compression, and data analysis software for SuperBIT,a balloon borne telescope set to launch in space.
+  * Under the supervision ofDr. Barth Netterfield, worked on theSuperBIT collaboration project.
   * Implementation of a galaxy map simulator using Monte Carlo algorithms.
-  * Data analysis for gravitational lensing effects of different map regions
-  * Programmed an optimization software to compare the efficiency of different algorithms to compress over 10000 simulated stars.
-  * Obtained a compression factor of 5.15 for the densest image.
+  * Used numpy, scipy and aplpy to analyze galaxy maps for weak gravitational lensing effects.
+  * Programmed an optimization software to compare the efficiency of different compression algorithms.
+  * Obtained a compression factor of 5.15 for the densest image
   """
 
   [[experience]]
@@ -71,12 +72,12 @@ date_format = "Jan 2006"
   date_end = "2020-04-01"
   description = """
   (Quantum Optics) Vutha Group
+  Under the supervision ofDr.  Amar Vutha, worked on thePolyEDM collaboration project.
   * Developed a Python program that simulates magnetic fields in a high powered molecular beam slower.
-  * Created a theoretical model for the behavior of YbOH molecules under the presence of turbulent magnetic fields.
-  * Programmed an optimal numerical and analytical differential equation solver.
-  * Implemented algorithms for finding the Hamiltonian of different molecules.
-  * Used AutoCAD to design a complete nitrogen shield vacuum chamber.
-  * Debugged and created new instrumentation equipment such as: RF switch boxes, diode temperature cables, DAC devices, etc.
+  * Programmed a theoretical model for the behavior YbOH molecules under the presence of turbulent magnetic fields.
+  * Created a numerical and analytical differential equation solver for the magnetic dipole moment of molecules.
+  * Used AutoCAD to design and construct a fully functional nitrogen shield vacuum chamber.
+  * Debugged and designed new instrumentation equipment such as: RF switch boxes, diode temperaturecables, DAC devices, etc
   """
 
 [[experience]]
