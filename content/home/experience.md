@@ -49,11 +49,9 @@ date_format = "Jan 2006"
   * Online lab teaching assistant, organizing group activities and providing assistance to students.
   * Held office hours for further assistance.
   * Have taught to date:
-    """
-    * PHYS372
-    * PHYS118
-    * PHYS117
-    """
+    -PHYS372
+    -PHYS118
+    -PHYS117
   """
 
 [[experience]]
