@@ -4,10 +4,10 @@ event: 2021
 event_url: https://balloontech.umn.edu/
 
 location: University of Minnesota
-address:
-  street: 116 Church Street S.E.
-  city: Minneapolis, Mn 55455
-  country: United States
+# address:
+street: 116 Church Street S.E.
+city: Minneapolis, Mn 55455
+country: United States
 
 summary: The efficiency and advantages toward the use of Compression Algorithms.
 abstract: Astronomical instrumentation has grown tremendously in their capabilitiesfor  capturing  high  quality  science  images;  however,  these  advancements  areoffset by another problem- the limitation in the bandwidth.  Progress in astro-nomical research demonstrates that the compression of crucial data is becomingincreasingly important. Such a clear example lies in balloon-borne telescopes,such as BlastTNG and SuperBIT. Being able to look at multiple science imagesduring the flight is crucial to evaluate payload performance and debug any in-evitable problems.  The use of compression algorithms proves to be an effective solution  in  obtaining  multiple  images  while  retaining  the  high  quality  resolu-tions our cameras capture. 
