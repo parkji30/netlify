@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Software Developer"
+  company = "WFHomie"
+  company_url = "www.wfhomie.com"
+  location = "Toronto"
+  date_start = "2021-01-15"
+  date_end = "2021-02-14"
+  description = """
+  * Complete front end integration of website responsiveness and design using using React.Js, Material UI.
+  * Development of user registration, authentication using Firebase, Express.js.
+  * Lead a team in product design and deployment for subscribed customers.
+  * Virtual presentation for demonstration of product to angel investors.
+  """
+  
+[[experience]]
   title = "Graduate Research Scientist"
   company = "Fissel Star Formation Lab"
   company_url = "https://www.queensu.ca/physics/home"

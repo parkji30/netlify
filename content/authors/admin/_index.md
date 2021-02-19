@@ -70,8 +70,8 @@ user_groups:
 
 Experimental physicist, programming enthusiast exploring the creation and evolution of the Universe.
 
-My current research involves the investigation of star formation using high powered telescope such as BlastTNG- https://sites.northwestern.edu/blast/. 
+My current research involves the investigation of star formation using high powered telescope such as BlastTNG- https://sites.northwestern.edu/blast/ and testing
+the validity of the Modified Davis Chandresekhar Fermi method with the polarized map of Vela-C and the Athena Simulations.
 
-Currently I am working on analyzing data from our most recent flight along with developing an optimal filtering and compression algorithm that will be implemented in future models!
 
-I also dabble with machine learning and abstract math. 
+

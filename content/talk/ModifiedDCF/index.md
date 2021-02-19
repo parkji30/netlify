@@ -12,14 +12,14 @@ location: TBD
 #   country: United States
 
 
-summary: The efficiency and advantages toward the use of Compression Algorithms.
+summary: The efficiency and advantages for the use of Compression Algorithms.
 abstract: Star Formation remains a program at large.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
-date_end: ""
-all_day: true
+date: "2021-05-10"
+date_end: "2021-11-14"
+all_day: True
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
