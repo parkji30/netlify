@@ -1,7 +1,7 @@
 ---
 title: Testing the Efficiency for the Modified Davis Chandresekhar Method
 event: Canadian Astronomical Society 
-event_url: https://casca2021.astroherzberg.org/
+event_url: "https://casca2021.astroherzberg.org/"
 
 location: TBD
 #   address:
